@@ -27,7 +27,7 @@
             "database"
         ],
         "psr-4": {
-            "AmeyemQuiz\\": "app/"
+            "App\\": "app/"
         }
     },
     "autoload-dev": {

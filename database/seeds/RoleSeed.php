@@ -1,6 +1,6 @@
 <?php
 
-use App\Role;
+use AmeyemQuiz\Role;
 use Illuminate\Database\Seeder;
 
 class RoleSeed extends Seeder
